@@ -24,4 +24,6 @@ The data and image I get:
 
 ![2-23.jpg](https://s2.loli.net/2025/09/06/4zMKbXesLvfa7IV.png)
 
+![2-25.jpg](https://s2.loli.net/2025/09/07/lWHoFyaG4YS5ZRM.png)
+
 I also write a [blog](https://www.emoe.xyz/sony_imx159_reverse_engineering_and_simple_guide_line/) about how I reverse it (Chinese):
